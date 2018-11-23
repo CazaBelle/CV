@@ -8,9 +8,13 @@ Software engineer with a passion for coding. Ruby-enthusiast with experience in 
 
 
 ## Projects 
+|Project | Description | Tech Used | 
+|--------|-------------|-----------|
+|[Frogger Arcade Game](https://github.com/CazaBelle/Udacity-FEND-Project-4-Arcade-Game)| Recreation of Classic Arcade Game Frogger| Javascript, HTML5 Canvas
+|[Memory Game](https://github.com/CazaBelle/FEND-Project-3-Memory-Game)|Players flip over cards to locate the pairs that match|HTML, CSS, Javascript, 
 
 
-##Eduation
+## Eduation
 Udacity, E-Learning — Front-End Web Dev Nanodegree
 Feb 2018 - Aug 2018
 Focus on  Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
