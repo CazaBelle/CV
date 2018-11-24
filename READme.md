@@ -7,11 +7,11 @@ Junior software engineer with a passion for coding. Ruby-enthusiast with experie
 
 <a name="skills"></a>
 ## Skills
-* **Highly Skilled Communicator  - Praised by colleagues for my clear explanations during pairing sessions.
-* **Natural problem solver - Thrilled to 
-* **Strong work ethic -  Completed an online nanodegree while working multiple jobs.
-* **Team-player - Thrive in a group dynamic. Collaboration is my inspiration.
-* **Inquisitive - Will seek out coding challenges from daily life. I recently built a few Alexa Skills after purchasing a Amazon Echo.
+* **Highly Skilled Communicator**  - Praised by colleagues for my clear explanations during pairing sessions.
+* **Natural problem solver**
+* **Strong work ethic** -  Completed an online nanodegree while working multiple jobs.
+* **Team-player** - Thrive in a group dynamic. Collaboration is my inspiration.
+* **Inquisitive** - Will seek out coding challenges from daily life. I recently built a few Alexa Skills after purchasing a Amazon Echo.
 
 <a name="projects"></a>
 ## Projects
