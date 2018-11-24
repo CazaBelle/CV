@@ -1,5 +1,5 @@
 # Carol Gardiner 
-[Profile](profile)| |[Skills](skills) | [Projects](projects) | [Education](education) | [Awards](adwards)
+[Profile](#profile)| |[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Awards](#adwards)
 
 <a name="profile"></a>
 ## Profile
