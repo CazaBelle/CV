@@ -1,10 +1,12 @@
 # Carol Gardiner 
-Profile | Experience | Projects | Education | Awards
+[Profile]| Experience | Projects | Education | Awards
 
 ## Profile
 Software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as React and Angular.
 
-## Experience
+## Skills 
+* Loyalty
+* 
 
 
 ## Projects 
@@ -15,6 +17,11 @@ Software engineer with a passion for coding. Ruby-enthusiast with experience in 
 
 
 ## Eduation
+
+* **Makers Academy** - London 
+Nov 2018 - March 2019 
+Hightly selective immersive 12 week coding bootcamp. Focus on TDD, 
+
 * **Udacity, E-Learning** — Front-End Web Dev Nanodegree
 Feb 2018 - Aug 2018
 Focus on  Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
@@ -31,3 +38,4 @@ Course detailing the science behind  practical animal husbandry with a focus on 
 + Google Developer Scholarship with Udacity
 + Udacity Front-End Web Developer Nanodegree
 + ng Girls Angualar Web Application Workshop 
++ Makers Academy Fellowship 
