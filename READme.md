@@ -43,5 +43,5 @@ Course detailing the science behind practical animal husbandry with a focus on g
 ## Awards
 + Google Developer Scholarship with Udacity
 + Udacity Front-End Web Developer Nanodegree
-+ ng Girls Angualar Web Application Workshop
++ ng Girls Angular Web Application Workshop
 + Makers Academy Fellowship
