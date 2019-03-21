@@ -1,9 +1,10 @@
-<h1 align="center"> Carol Gardiner </h1>
 
 <p align="center">
   
 <a href="https://www.linkedin.com/in/carol-gardiner-40a165a5//">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<h1 align="center"> Carol Gardiner </h1>
 
 <div align="center"> 
   
