@@ -1,9 +1,24 @@
-# Carol Gardiner
-[Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Awards](#awards)
+<h1 align="center"> Carol Gardiner </h1>
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/carol-gardiner-40a165a5//">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<p align="center"> 
+  
+[Profile](#profile) | 
+[Skills](#skills) | 
+[Projects](#projects) | 
+[Education](#education) | 
+[Awards](#awards) 
+
+</p>
 
 <a name="profile"></a>
+
 ## Profile
-Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as React and Angular. Exposure to non-profit groups such as codebar, GirlsWhoCode and ngGirls has inspired me to aim to combine my passion for coding with education by developing software that makes technology digestible to everyone regardless of age or ability.  
+Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Exposure to non-profit groups such as Codebar, CodeYourFuture, GirlsWhoCode and ngGirls has inspired me to aim to combine my passion for coding with education by developing software that makes technology digestible to everyone regardless of age or ability.  
 
 <a name="skills"></a>
 ## Skills
