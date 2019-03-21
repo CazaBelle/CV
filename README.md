@@ -19,7 +19,7 @@
 <a name="profile"></a>
 
 ## Profile
-Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Exposure to non-profit groups such as Codebar, CodeYourFuture, GirlsWhoCode and ngGirls has inspired me to aim to combine my passion for coding with education by developing software that makes technology digestible to everyone regardless of age or ability.  
+Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Involvement with non-profit groups such as Codebar, CodeYourFuture, GirlsWhoCode, ngGirls and RailsGirls has inspired m to combine my passion for coding with education to develop software that makes technology accessible to everyone regardless of age or ability.  
 
 <a name="skills"></a>
 ## Skills
@@ -40,8 +40,8 @@ Junior software engineer with a passion for coding. Ruby-enthusiast with experie
 ## Education
 
 * **Makers Academy** - London
-Nov 2018 - March 2019
-Highly selective immersive 12 week coding bootcamp. Strong focus on teaching Agile, TDD and paired programming.
+Oct 2018 - March 2019
+Highly selective immersive 16 week coding bootcamp. Strong focus on teaching Agile, TDD and paired programming.
 
 * **Udacity, E-Learning** — Front-End Web Dev Nanodegree
 Feb 2018 - Aug 2018
