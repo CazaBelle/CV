@@ -21,17 +21,17 @@
 ## Profile
 Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Active in non-profit programming groups such as Codebar, Code Your Future (as a mentor), Girls Who Code, ngGirls and RailsGirls.
 
-Previously I worked as a practice manager in a hectic veterinary practice, a role that required working under pressure, a strong work ethic, and orgnization.
+Previously I worked as a practice manager in a hectic veterinary practice, a role that required working under pressure, a strong work ethic, and organization.
 
-I looking for a software company that values mentorship and encourages growth both personally and professionally. 
+I am looking for a software company that values mentorship and encourages growth both personally and professionally. 
 
 <a name="projects"></a>
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Alexa Quiz](https://github.com/learningtocode101/alexa_node_js_quiz) | Inspired by Brexit, my team created an Life in the Uk Alexa Skill for our final project. We created an interactive Quiz App that the user can play on any Alexa enabled device. You can watch a demo [here](https://www.youtube.com/watch?v=u7rnM6qNkW8&feature=youtu.be) | 2 weeks | NodeJS, JSON, HTML/CSS, AWS | Mocha, Bespoken, Alexa-Testing-Framework, TravisCI |
-| [Acebook](https://github.com/CazaBelle/acebook-rails-smoking-dragons) | We created a Facebook clone designed for updates on are friends daily ramblings. Our focus was on learning Ruby on Rails as well as continuous integration and deployment. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, TravisCI, Selenium WebDriver |
-| [Hotdeskes RESTful json api]() | Individual project to create a free resource locating all available co-working spaces globally. This is the backend component. The frontend is currently being developed in React | 3 Days | Ruby on Rails | RSpec, Travis, Heroku |
+| [Alexa Quiz](https://github.com/learningtocode101/alexa_node_js_quiz) | Inspired by Brexit, my team created an Alexa skill based on the 'Life in the UK' test that prospective British citizens have to take. You can watch a demo [here](https://www.youtube.com/watch?v=u7rnM6qNkW8&feature=youtu.be) | 2 weeks | NodeJS, JSON, HTML/CSS, AWS | Mocha, Bespoken, Alexa-Testing-Framework, TravisCI |
+| [Acebook](https://github.com/CazaBelle/acebook-rails-smoking-dragons) | We created a Facebook clone. Our focus was on learning Ruby on Rails as well as continuous integration and deployment. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, TravisCI, Selenium WebDriver |
+| [Hotdeskes RESTful json api]() | Individual project to create an API for locating all available co-working spaces globally. This is the backend component. The frontend is currently being developed in React | 3 Days | Ruby on Rails | RSpec, Travis, Heroku |
 
 <a name="skills"></a>
 ## Skills
@@ -46,17 +46,17 @@ I looking for a software company that values mentorship and encourages growth bo
 
 * **Makers Academy** - London
 Oct 2018 - March 2019
-Highly selective immersive 16 week coding bootcamp. Strong focus on teaching Agile, TDD and paired programming.
+Highly selective immersive 16 week coding bootcamp. Strong focus on teaching Agile, TDD and Pair Programming.
 
-* **Udacity, E-Learning** — Front-End Web Dev Nanodegree
+* **Udacity, E-Learning** — Nanodegree in Front-End Web Development 
 Feb 2018 - Aug 2018
 Focus on Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
 
-* **University of Edinburgh**, Edinburgh — Diploma
+* **University of Edinburgh**, Edinburgh, UK — Diploma in Veterinary Medicine
 July 2006 - Sept 2010
 Extensive coverage of anatomy with an emphasis on clinical application
 
-* **University of Guelph**, Guelph, ON — Bachelor’s Degree
+* **University of Guelph**, Guelph, Canada — Bachelor’s Degree in Animal Biology
 Sept 2001 - Aug 2005
 Course detailing the science behind practical animal husbandry with a focus on genetics, reproductive technology, nutrition and behaviour.
 
@@ -66,4 +66,3 @@ Course detailing the science behind practical animal husbandry with a focus on g
 + Google Developer Scholarship with Udacity
 + Udacity Front-End Web Developer Nanodegree
 + ng Girls Angualar Web Application Workshop
-
