@@ -9,8 +9,8 @@
 <div align="center"> 
   
 [Profile](#profile) | 
-[Skills](#skills) | 
 [Projects](#projects) | 
+[Skills](#skills) | 
 [Education](#education) | 
 [Awards](#awards) 
 
@@ -19,7 +19,15 @@
 <a name="profile"></a>
 
 ## Profile
-Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Involvement with non-profit groups such as Codebar, CodeYourFuture, GirlsWhoCode, ngGirls and RailsGirls has inspired m to combine my passion for coding with education to develop software that makes technology accessible to everyone regardless of age or ability.  
+Junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Involvement with non-profit groups such as Codebar, CodeYourFuture, GirlsWhoCode, ngGirls and RailsGirls has inspired me to combine my passion for coding with education to develop software that makes technology accessible to everyone regardless of age or ability.  
+
+<a name="projects"></a>
+## Projects
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [Alexa Quiz](https://github.com/learningtocode101/alexa_node_js_quiz) | Inspired by Brexit, my team created an Life in the Uk Alexa Skill for our final project. We created an interactive Quiz App that the user can play on any Alexa enabled device. You can watch a demo [here](https://www.youtube.com/watch?v=u7rnM6qNkW8&feature=youtu.be) | 2 weeks | NodeJS, JSON, HTML/CSS, AWS | Mocha, Bespoken, Alexa-Testing-Framework, TravisCI |
+| [Acebook](https://github.com/CazaBelle/acebook-rails-smoking-dragons) | We created a Facebook clone designed for updates on are friends daily ramblings. Our focus was on learning Ruby on Rails as well as continuous integration and deployment. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, TravisCI, Selenium WebDriver |
+| [Hotdeskes RESTful json api]() | Individual project to create a free resource locating all available co-working spaces globally. This is the backend component. The frontend is currently being developed in React | 3 Days | Ruby on Rails | RSpec, Travis, Heroku |
 
 <a name="skills"></a>
 ## Skills
@@ -28,13 +36,6 @@ Junior software engineer with a passion for coding. Ruby-enthusiast with experie
 * **Strong work ethic** -  Completed an online nanodegree while working multiple jobs.
 * **Team-player** - Thrive in a group dynamic. Collaboration is my inspiration.
 * **Inquisitive** - Will seek out coding challenges from daily life. I recently built a few Alexa Skills after purchasing a Amazon Echo.
-
-<a name="projects"></a>
-## Projects
-|Project | Description | Tech Used |
-|--------|-------------|-----------|
-|[Frogger Arcade Game](https://github.com/CazaBelle/Udacity-FEND-Project-4-Arcade-Game)| Recreation of Classic Arcade Game Frogger| Javascript, HTML5 Canvas
-|[Memory Game](https://github.com/CazaBelle/FEND-Project-3-Memory-Game)|Players flip over cards to locate the pairs that match|HTML, CSS, Javascript,
 
 <a name="education"></a>
 ## Education
@@ -57,7 +58,8 @@ Course detailing the science behind practical animal husbandry with a focus on g
 
 <a name="awards"></a>
 ## Awards
++ Makers Academy Fellowship
 + Google Developer Scholarship with Udacity
 + Udacity Front-End Web Developer Nanodegree
 + ng Girls Angualar Web Application Workshop
-+ Makers Academy Fellowship
+
