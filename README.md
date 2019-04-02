@@ -19,7 +19,7 @@
 <a name="profile"></a>
 
 ## Profile
-Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Active in non-profit coding programming groups such as Codebar, Code Your Future (as a mentor), Girls Who Code, ngGirls and RailsGirls.
+Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Active in non-profit programming groups such as Codebar, Code Your Future (as a mentor), Girls Who Code, ngGirls and RailsGirls.
 
 Previously I worked as a practice manager in a hectic veterinary practice, a role that required working under pressure, a strong work ethic, and orgnization.
 
