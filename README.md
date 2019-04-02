@@ -19,7 +19,7 @@
 <a name="profile"></a>
 
 ## Profile
-A junior software engineer with a passion for coding. Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Involvement with non-profit groups such as Codebar, Code Your Future, Girls Who Code, ngGirls and RailsGirls has enable me to combine my passion for coding to make learning to program accessible to everyone regardless of age or ability.
+Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Involvement with non-profit coding programming groups such as Codebar, Code Your Future, Girls Who Code, ngGirls and RailsGirls has enabled me to combine my passion for coding to make learning to program accessible to everyone regardless of age or ability.
 
 As a reformed practice manager at a hectic veterinary practice I looking for a software company that values mentorship and encourages growth both personally and professionally. I love coding and hope to be able to  
 
