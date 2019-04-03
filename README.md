@@ -12,6 +12,7 @@
 [Projects](#projects) | 
 [Skills](#skills) | 
 [Education](#education) | 
+[Experience](#experience) |
 [Awards](#awards) 
 
 </div>
@@ -19,7 +20,7 @@
 <a name="profile"></a>
 
 ## Profile
-Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Active in non-profit programming groups such as Codebar, Code Your Future (as a mentor), Girls Who Code, ngGirls and RailsGirls. I have a keen interest in renewable energies, artifical intelligence, augmented realities and  
+Passionate Ruby-enthusiast with experience in HTML5, CSS, Javascript frameworks such as Rails, React and Angular. Active in non-profit programming groups such as Codebar, Code Your Future (as a mentor), Girls Who Code, ngGirls and RailsGirls. I have a keen interest in renewable energies, artificial intelligence, augmented realities, blockchain and cryptocurrencies.
 
 Previously I worked as a practice manager in a hectic veterinary practice, a role that required working under pressure, a strong work ethic, and organization. 
 
@@ -49,31 +50,37 @@ I am looking for a software company that values mentorship and encourages growth
 <a name="education"></a>
 ## Education
 
-**Makers Academy** - London
-Oct 2018 - March 2019
-Highly selective immersive 16 week coding bootcamp.
-* Languages: Ruby, JavaScript, HTML/CSS, SQL
-* Web Frameworks: Sinatra, Ruby on Rails
-* Databases: PostgreSQL
-* Testing frameworks: Rspec, Capybara, Jasmine, Jest
-* CI/CD: Travis CI, Codeclimate, Heroku
-* Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
+* **Makers Academy** - London
+  * Oct 2018 - March 2019
+  * Highly selective immersive 16 week coding bootcamp
+    * Languages: Ruby, JavaScript, HTML/CSS, SQL
+    * Web Frameworks: Sinatra, Ruby on Rails
+    * Databases: PostgreSQL
+    * Testing frameworks: Rspec, Capybara, Jasmine, Jest
+    * CI/CD: Travis CI, Codeclimate, Heroku
+    * Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
 
-**Udacity, E-Learning** — Nanodegree in Front-End Web Development 
-Feb 2018 - Aug 2018
-Focus on Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
+* **Udacity, E-Learning** — Nanodegree in Front-End Web Development 
+  * Feb 2018 - Aug 2018
+  * Focus on Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
 
-**University of Edinburgh**, Edinburgh, UK — Diploma in Veterinary Medicine
-July 2006 - Sept 2010
-Extensive coverage of anatomy with an emphasis on clinical application.
+* **University of Edinburgh**, Edinburgh, UK — Diploma in Veterinary Medicine
+  * July 2006 - Sept 2010
+  * Extensive coverage of anatomy with an emphasis on clinical application.
 
-**University of Guelph**, Guelph, Canada — Bachelor’s Degree in Animal Biology
-Sept 2001 - Aug 2005
-Course detailing the science behind practical animal husbandry with a focus on genetics, reproductive technology, nutrition and behaviour.
+* **University of Guelph**, Guelph, Canada — Bachelor’s Degree in Animal Biology
+  * Sept 2001 - Aug 2005
+  * Course detailing the science behind practical animal husbandry with a focus on genetics, reproductive technology, nutrition and behaviour.
+
+<a name="experience"></a>
+## Experience
+**Happy Pets Veterinary Surgery** (Nov 2010 - Jul 2018)
+* *Practice Manager*
+* *key skills: verbal communication, management, problem solving, teamwork*
 
 <a name="awards"></a>
 ## Awards
 + Makers Academy Fellowship
 + Google Developer Scholarship with Udacity
 + Udacity Front-End Web Developer Nanodegree
-+ ng Girls Angualar Web Application Workshop
++ ng Girls Angular Web Application Workshop
