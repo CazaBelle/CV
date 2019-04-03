@@ -88,12 +88,12 @@ I am looking for a software company that values mentorship and encourages growth
 * **Makers Academy** - London
 Oct 2018 - March 2019
 Highly selective immersive 16 week coding bootcamp.
-* Languages: Ruby, JavaScript, HTML/CSS, SQL
-* Web Frameworks: Sinatra, Ruby on Rails
-* Databases: PostgreSQL
-* Testing frameworks: Rspec, Capybara, Jasmine, Jest
-* CI/CD: Travis CI, Codeclimate, Heroku
-* Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
+** Languages: Ruby, JavaScript, HTML/CSS, SQL
+** Web Frameworks: Sinatra, Ruby on Rails
+** Databases: PostgreSQL
+** Testing frameworks: Rspec, Capybara, Jasmine, Jest
+** CI/CD: Travis CI, Codeclimate, Heroku
+** Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
 
 * **Udacity, E-Learning** — Nanodegree in Front-End Web Development 
 Feb 2018 - Aug 2018
@@ -102,32 +102,6 @@ Focus on Javascript design patterns, developer tools, testing suites and framewo
 * **University of Edinburgh**, Edinburgh, UK — Diploma in Veterinary Medicine
 July 2006 - Sept 2010
 Extensive coverage of anatomy with an emphasis on clinical application.
-
-* **University of Guelph**, Guelph, Canada — Bachelor’s Degree in Animal Biology
-Sept 2001 - Aug 2005
-Course detailing the science behind practical animal husbandry with a focus on genetics, reproductive technology, nutrition and behaviour.
-
-<a name="awards"></a>
-## Awards
-+ Makers Academy Fellowship
-+ Google Developer Scholarship with Udacity
-+ Udacity Front-End Web Developer Nanodegree
-+ ng Girls Angualar Web Application Workshop
-
-<a name="education"></a>
-## Education
-
-* **Makers Academy** - London
-Oct 2018 - March 2019
-Highly selective immersive 16 week coding bootcamp. Strong focus on teaching Agile, TDD and Pair Programming.
-
-* **Udacity, E-Learning** — Nanodegree in Front-End Web Development 
-Feb 2018 - Aug 2018
-Focus on Javascript design patterns, developer tools, testing suites and frameworks. Built responsive dynamic user web apps.
-
-* **University of Edinburgh**, Edinburgh, UK — Diploma in Veterinary Medicine
-July 2006 - Sept 2010
-Extensive coverage of anatomy with an emphasis on clinical application
 
 * **University of Guelph**, Guelph, Canada — Bachelor’s Degree in Animal Biology
 Sept 2001 - Aug 2005
