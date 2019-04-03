@@ -38,7 +38,7 @@ I am looking for a software company that values mentorship and encourages growth
 ## Skills
 * **Agile Development** - I am a firm believer in the core principles of the agile methodology and especially enjoy the discipline of a daily stand-up. I have witnessed first hand the measurable rise in team morale with improved agile processes. When we began focusing on delivering our MVP instead of trying to complete every complicated requirement we were a more productive and fulfilled team. 
 
-* **Self-driven Learner** - I have a hunger for learning that borders on obsessive. Whether it be a unfamiliar framework or language I will dedicate myself to mastering it. I use experimental side projects to keep me excited and motivated.  
+* **Self-driven Learner** - I have a hunger for learning that borders on obsessive. Whether it be an unfamiliar framework or language, I will dedicate myself to mastering it. I use experimental side projects to keep me excited and motivated.  
 
 * **Confident Communicator** - I bring exceptional communication skills, both written and spoken, when dealing with colleagues and clients. When coding this gives me excellent attention to detail and the ability to explain a concepts clearly and concisely. 
 
