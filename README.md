@@ -40,7 +40,7 @@ I am looking for a software company that values mentorship and encourages growth
 
 * **Self-driven Learner** - I have a hunger for learning that borders on obsessive. Whether it be an unfamiliar framework or language, I will dedicate myself to mastering it. I use experimental side projects to keep me excited and motivated.  
 
-* **Confident Communicator** - I bring exceptional communication skills, both written and spoken, when dealing with colleagues and clients. When coding this gives me excellent attention to detail and the ability to explain a concepts clearly and concisely. 
+* **Confident Communicator** - I bring exceptional communication skills, both written and spoken, when dealing with colleagues and clients. When coding this gives me excellent attention to detail and the ability to explain concepts clearly and concisely. 
 
 * **Natural Problem Solver**  - My previous role often required me to handle emergencies when patients were seriously injured. These situations demanded immediate results and creative thinking. As a result, when encountering an issue with one of my programs I’m able to resolve the issue quickly and calmly. 
 
